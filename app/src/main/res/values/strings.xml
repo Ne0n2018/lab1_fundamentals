@@ -12,5 +12,36 @@
     <string name="title_alertDialog">Внимание</string>
     <string name="alertDialog_about">Это диалоговое окно</string>
     <string name="insert_email">Email</string>
-
+    <string name="first" >первый</string>
+    <string name="second">второй</string>
+    <string name="third">третий</string>
+    <string name="text_center">центр</string>
+    <string name="text_bottom_end" />
+    <string name="text_top_start" />
+    <string name="text1">первый</string>
+    <string name="text2">второй</string>
+    <string name="text3">третий</string>
+    <string name="menu">Menu</string>
+    <string name="row">Строка</string>
+    <string name="column">Колонка</string>
+    <string name="compApp" />
+    <string name="box">коробка</string>
+    <string name="surface">сюрфейс</string>
+    <string name="scafold">скафолд</string>
+    <string name="shop">"магазин "</string>
+    <string name="pudge">pudge</string>
+    <string name="voidd">void</string>
+    <string name="scaffold">скафолд</string>
+    <string name="scrolling">скролинг</string>
+    <string name="list">списокчек</string>
+    <string name="grid">гриб</string>
+    <string name="learn_kotlin">изучение котлин\n</string>
+    <string name="architecture">архитектура\n</string>
+    <string name="coroutines">"карантин "</string>
+    <string name="sila">сила\n</string>
+    <string name="android">андроид</string>
+    <string name="kotlin">котлин\n</string>
+    <string name="swift">свифт</string>
+    <string name="ios">ios</string>
+    <string name="covers">конверсы</string>
 </resources>
